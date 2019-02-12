@@ -4,7 +4,11 @@ Title: Handling of MSG SEVIRI data
 Version: 0.1.0
 Author: Hanna Meyer, Johannes Drönner
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: R functions to handle MSG SEVIRI data that have been processed with the Marburg MSG processing routines 
+Description: R functions to handle MSG SEVIRI data that have been processed with the Marburg MSG processing routines. 
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: raster, rgdal
+Suggests: knitr
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
