@@ -2,6 +2,7 @@
 
 export(cr2Geos)
 export(cr2ll)
+export(generateFileName)
 export(getChannels)
 export(getDate)
 export(getSunzenith)
