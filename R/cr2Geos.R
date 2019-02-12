@@ -13,6 +13,7 @@
 #'
 #' @author
 #' Hanna Meyer and Johannes Droenner
+#' @seealso \code{\link{cr2ll}}, \code{\link{ll2cr}}
 #' @examples
 #' library(raster)
 #' cr2Geos(raster(extent(2200, 3000, 2450, 3050)))

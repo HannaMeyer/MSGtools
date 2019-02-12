@@ -4,6 +4,7 @@
 #' @param lloff Integer coefficient of the scalling function  (see page 28, Ref [1])
 #' @return Data frame including latitude and longitude of the MSG image
 #' @author Hanna Meyer based on the FORTRAN Routine of EUMETSAT 2005, 2009.
+#' @seealso \code{\link{ll2cr}}, \code{\link{cr2Geos}}
 #' @references
 #' [1] LRIT/HRIT Global Specification
 #' (CGMS 03, Issue 2.6, 12.08.1999)
